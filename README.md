@@ -11,3 +11,10 @@ ArXiv, 2024.
 **LLM Datasets**<br>
 *High-quality datasets, tools, and concepts for LLM fine-tuning.*<br>
 [[Github](https://github.com/mlabonne/llm-datasets)]
+
+## Data Quality
+
+**A Survey on Data Selection for Language Models**<br>
+*A Albalak, Y Elazar, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](http://arxiv.org/pdf/2402.16827)]
