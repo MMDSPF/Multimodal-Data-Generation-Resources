@@ -1,5 +1,17 @@
 # Multimodal-Data-Generation-Resources
 
+## Review
+
+**Data-centric artificial intelligence: A survey.**<br>
+*D Zha, ZP Bhat, KH Lai, F Yang, Z Jiang, S Zhong, X Hu.*<br>
+arXiv:2303.10158, 2023.
+[[ArXiv](https://arxiv.org/pdf/2303.10158)]
+
+**Will we run out of data? an analysis of the limits of scaling datasets in machine learning.**<br>
+*P Villalobos, J Sevilla, L Heim, T Besiroglu, M Hobbhahn, A Ho.*<br>
+arXiv:2211.04325, 2022.
+[[ArXiv](https://arxiv.org/pdf/2211.04325)]
+
 ## LLMs DataSets Resources
 
 **Datasets for Large Language Models: A Comprehensive Survey.**<br>
