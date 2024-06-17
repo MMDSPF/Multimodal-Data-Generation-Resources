@@ -12,6 +12,11 @@ arXiv:2303.10158, 2023.
 arXiv:2211.04325, 2022.
 [[ArXiv](https://arxiv.org/pdf/2211.04325)]
 
+**From concept to implementation: The data-centric development process for AI in industry.**<br>
+*PP Luley, JM Deriu, P Yan, GA Schatte, T Stadelmann.*<br>
+2023 10th IEEE Swiss Conference on Data Science (SDS), 2023.
+[[Paper](https://digitalcollection.zhaw.ch/bitstream/11475/28148/1/2023_Luley-etal_Data-centric-development-process-for-AI-in-industry_v2.pdf)]
+
 ## LLMs DataSets Resources
 
 **Datasets for Large Language Models: A Comprehensive Survey.**<br>
