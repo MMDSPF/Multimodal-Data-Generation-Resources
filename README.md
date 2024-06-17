@@ -42,6 +42,12 @@ NeurIPS, 2024.
 [[ArXiv](https://proceedings.neurips.cc/paper_files/paper/2023/file/112db88215e25b3ae2750e9eefcded94-Paper-Datasets_and_Benchmarks.pdf)]
 [[Github](https://github.com/mlcommons/dataperf)]
 
+**Alpagasus: Training a better alpaca with fewer data.**<br>
+*L Chen, S Li, J Yan, H Wang, K Gunaratna, V Yadav, Z Tang, V Srinivasan, T Zhou, H Huang, et al.*<br>
+arXiv:2307.08701, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.08701)]
+[[Github](https://lichang-chen.github.io/AlpaGasus/)]
+
 ## Training DataSets Generation
 
 **Self-alignment with instruction backtranslation.**<br>
@@ -54,6 +60,12 @@ NeurIPS, 2024.
 Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ae9500c4f5607caf2eff033c67daa9d7-Paper-Datasets_and_Benchmarks.pdf)]
 [[Github](https://github.com/yueyu1030/AttrPrompt)]
+
+**Automatically Generating Numerous Context-Driven SFT Data for LLMs across Diverse Granularity.**<br>
+*S Quan.*<br>
+arXiv:2405.16579, 2024.
+[[Paper](https://arxiv.org/pdf/2405.16579)]
+[[Github](https://github.com/quanshr/AugCon)]
 
 ## Test DataSets Generation
 
@@ -90,5 +102,8 @@ arXiv:2405.17346, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.17346)]
 [[Github](https://arxiv.org/pdf/2405.17346)]
 
-
+**PROPANE: Prompt design as an inverse problem.**<br>
+*R Melamed, LH McCabe, T Wakhare, Y Kim, HH Huang, E Boix-Adsera.*<br>
+arXiv:2311.07064, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.07064)]
 
