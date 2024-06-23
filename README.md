@@ -89,7 +89,7 @@ arXiv:2310.15147, 2023.
 
 ## Interaction DataSets Generation
 
-### Prompt Optimizatio
+### Prompt Optimization
 
 **Efficient Prompting Methods for Large Language Models: A Survey.**<br>
 *K Chang, S Xu, C Wang, Y Luo, T Xiao, J Zhu.*<br>
