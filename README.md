@@ -48,6 +48,12 @@ arXiv:2307.08701, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.08701)]
 [[Github](https://lichang-chen.github.io/AlpaGasus/)]
 
+**Longwanjuan: Towards systematic measurement for long text quality.**<br>
+*K Lv, X Liu, Q Guo, H Yan, C He, X Qiu, D Lin.*<br>
+arxiv:2402.13583, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.13583)]
+[[Github](https://github.com/OpenLMLab/LongWanjuan)]
+
 ## Training DataSets Generation
 
 **Self-alignment with instruction backtranslation.**<br>
