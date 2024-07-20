@@ -73,6 +73,12 @@ arXiv:2405.16579, 2024.
 [[Paper](https://arxiv.org/pdf/2405.16579)]
 [[Github](https://github.com/quanshr/AugCon)]
 
+**Scaling Synthetic Data Creation with 1,000,000,000 Personas.**<br>
+*X Chan, X Wang, D Yu, H Mi, D Yu.*<br>
+arXiv:2406.20094, 2024.
+[[Paper](https://arxiv.org/pdf/2406.20094?trk=public_post_comment-text)]
+[[Github](https://github.com/tencent-ailab/persona-hub)]
+
 ## Test DataSets Generation
 
 ### Language
