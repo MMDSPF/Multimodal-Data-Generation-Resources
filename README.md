@@ -75,6 +75,8 @@ arXiv:2405.16579, 2024.
 
 ## Test DataSets Generation
 
+### Language
+
 **Dyval: Graph-informed dynamic evaluation of large language models.**<br>
 *K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
 arXiv:2309.17167, 2023.
@@ -92,6 +94,20 @@ arXiv:2311.15930, 2023.
 arXiv:2310.15147, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.15147)]
 [[Github](https://github.com/lfy79001/S3Eval)]
+
+### Multimodal
+
+**Task Me Anything.**<br>
+*J Zhang, W Huang, Z Ma, O Michel, D He, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.11775)]
+[[Github](https://www.task-me-anything.org/)]
+
+**Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs.**<br>
+*Z Zhao, H Lu, Y Huo, Y Du, T Yue, L Guo, B Wang, W Chen, J Liu.*<br>
+arXiv:2406.09367, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.09367)]
+[[Github](https://github.com/joez17/VideoNIAH)]
 
 ## Interaction DataSets Generation
 
